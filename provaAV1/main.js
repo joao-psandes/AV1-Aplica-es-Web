@@ -36,12 +36,6 @@ let corrida = new Corrida(pilotos, carros)
 corrida.largada(relatorio)
 
 
-// corrida.largada(relatorio);
-
-
-// ferrari.acelerando0a100(arnaldo,relatorio)
-// carrango.acelerando0a100(pedro,relatorio)
-// carrango.acelerando0a100(relatorio)
 
 
 
